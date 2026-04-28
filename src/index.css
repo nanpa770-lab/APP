@@ -36,3 +36,6 @@ input::placeholder {
   0%   { background-position: 200% 0; }
   100% { background-position: -200% 0; }
 }
+
+/* News Hub custom scrollbar */
+html { scroll-behavior: smooth; }
